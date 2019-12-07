@@ -54,7 +54,7 @@ Q1 - 2020
 ```sh
 - Depreciate lynkUp auth in frontend - total migration to firebase auth
 - Depreciate S3 for photos - total migration to firebase storage
-- Photo experience
+- Photo experience - 1 photo, bug fix for Q2
 - Chat - more robust, notifications and firebase auth integration
 - Customer retention email workflows - V
 ```
