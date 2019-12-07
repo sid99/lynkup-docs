@@ -39,7 +39,8 @@ Q1 - 2020
 - Infra and Application Monitoring V2
 - Matches QA playbook
 - Multiple matches to female users
-- Storing user device details 
+- Storing user device details
+- Send emails around approval and rejections
 - Improvising matching algo
  - Income
  - ABCD tracker questions
